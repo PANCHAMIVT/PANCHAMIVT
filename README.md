@@ -5,9 +5,8 @@
 - 🌱 I’m currently learning Data Analytics in Edubridge
 - 
 - 📫 How to reach me ... 
-- 
--    [panchamipanchu1729@gmail.com](link)
--    [https://www.linkedin.com/in/panchamivt18/](link)
+ Gmail : [panchamipanchu1729@gmail.com](link)
+ LinkdIn : [https://www.linkedin.com/in/panchamivt18/](link)
 
 <!---
 PANCHAMIVT/PANCHAMIVT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
