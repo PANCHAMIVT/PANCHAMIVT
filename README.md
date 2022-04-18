@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @PANCHAMIVT
-- 👀 I’m interested in Analysis
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Panchami, Welcome to my Github Page
+- 
+- 👀 I'm an aspiring Data Scientist| Data Analyst
+- 
+- 🌱 I’m currently learning Data Analytics in Edubridge
+- 
+- 📫 How to reach me ... [panchamipanchu1729@gmail.com](link)
 
 <!---
 PANCHAMIVT/PANCHAMIVT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
